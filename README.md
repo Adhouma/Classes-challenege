@@ -1,4 +1,4 @@
-# Classes-challnege
+# Classes-challenge
 
 	/**
 	 * Create a new class for a bank account
